@@ -1,0 +1,58 @@
+.basket-holder {
+    position: absolute;
+    top: 0;
+    right: 70px;
+    width:300px;
+    -webkit-filter: drop-shadow(rgba(241, 149, 178, 1) 0px 0px 4px);
+	background: white;
+	display: none;
+}
+
+.basket-holder h2 {
+    text-align: center;
+    color: $main-color;
+}
+
+.basket-holder:after {
+    content: "";
+    display: block;
+    position: absolute;
+    width: 100%;
+    height: 20px;
+    background: linear-gradient(125deg, #ffffff 8px, transparent 0) ,
+                linear-gradient(-125deg, #ffffff 8px, transparent 0) ;
+    background-size: 20px 20px;
+}
+
+.basket-holder--item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 10px;
+}
+
+.basket-holder--item button {
+    color: $text-color;
+    font-size: 16px;
+    border: 1px solid $text-color;
+    width: 25px;
+    height: 25px;
+    background-color: white;
+    cursor: pointer;
+}
+
+.basket-holder--item button:hover {
+    background-color: $text-color;
+    color: white;
+}
+
+.container {
+    padding: 0 20px 60px;
+}
+
+hr {
+height: 1px;
+background-color: $main-color;
+border: none;
+margin-bottom: 40px;
+}

@@ -1,0 +1,35 @@
+#app {
+    font-family: 'Avenir', Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+    margin: 0;
+    min-width: 300px;
+}
+
+#nav {
+    padding: 15px;
+    background-color: $main-color;
+}
+
+#nav img {
+    width: 40px;
+    -webkit-filter: invert(100%);
+    position: absolute;
+    right: 20px;
+    top: 10px;
+}
+
+#nav a {
+    font-weight: bold;
+    color: white;
+    font-size: 26px;
+    margin-left: 50px;
+}
+
+#nav a.router-link-exact-active {
+    color: white;
+    text-decoration: none;
+}

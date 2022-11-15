@@ -1,0 +1,98 @@
+[
+	{
+		"id": 1,
+		"image": "/espresso.jpg",
+		"alt": "espresso",
+		"title": "Espresso",
+		"description": "Výborná silná italská káva",
+		"price": "39"
+	},
+	{
+		"id": 2,
+		"image": "/ristretto.jpg",
+		"alt": "ristretto",
+		"title": "Ristretto",
+		"description": "Espresso s malým objemem vody",
+		"price": "39"
+	},
+	{
+		"id": 3,
+		"image": "/cortado.jpg",
+		"alt": "cortado",
+		"title": "Cortado",
+		"description": "Espresso zjemněné mléčnou mikropěnou",
+		"price": "45"
+	},
+	{
+		"id": 4,
+		"image": "/capuccino.jpg",
+		"alt": "capuccino",
+		"title": "Capuccino",
+		"description": "Espresso s nalehanou mléčnou pěnou",
+		"price": "60"
+	},
+	{
+		"id": 5,
+		"image": "/flat white.jpg",
+		"alt": "flat white",
+		"title": "Flat White",
+		"description": "Dvojité espresso s mléčnou pěnou",
+		"price": "67"
+	},
+	{
+		"id": 6,
+		"image": "/latte.jpg",
+		"alt": "caffé latte",
+		"title": "Caffé Latte",
+		"description": "Espresso s teplým mlékem a pěnou na povrchu",
+		"price": "55"
+	},
+	{
+		"id": 7,
+		"image": "/cupcake.jpg",
+		"alt": "borůvkový cupcake",
+		"title": "Borůvkový cupcake",
+		"description": "Cupcake přelitý smetanou, posypaný borůvkami a čokoládou",
+		"price": "60"
+	},
+	{
+		"id": 8,
+		"image": "/cake.jpg",
+		"alt": "čokoládový dort",
+		"title": "Čokoládový dort",
+		"description": "Čokoládová exploze ozdobená čerstvými jahodami",
+		"price": "79"
+	},
+	{
+		"id": 9,
+		"image": "/eclair.jpg",
+		"alt": "jahodový eclair",
+		"title": "Jahodový eclair",
+		"description": "Dortík z listového těsta plněný lehačkou a jahodami",
+		"price": "45"
+	},
+	{
+		"id": 10,
+		"image": "/caramel.jpg",
+		"alt": "karamelový dortík",
+		"title": "Karamelový dortík",
+		"description": "Čokoládová krusta plněná horkým karamelovým krémem",
+		"price": "62"
+	},
+	{
+		"id": 11,
+		"image": "/crepe.jpg",
+		"alt": "palačinka s ovocem",
+		"title": "Palačinka s ovocem",
+		"description": "Palačinka s javorovým sirupem, ovocem a šlehačkou",
+		"price": "71"
+	},
+	{
+		"id": 12,
+		"image": "/pie.jpg",
+		"alt": "třešňový koláč",
+		"title": "Třešňový koláč",
+		"description": "Domácí třeňový koláč jako od babičky",
+		"price": "49"
+	}
+]
